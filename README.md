@@ -46,3 +46,26 @@ npm install -g claude-code-router
 
 ### Download It From Here : 
 [ollama.com](https://ollama.com/download).
+
+
+## Step 4 — Install Any Model
+
+Install Any Model From Ollama:
+
+```bash
+ollama pull [your_model_here]
+```
+
+My Recomendation Models : 
+Model :       Size : Context  Input : 
+qwen3.5:0.8b  1.0GB   256K    Text, Image
+qwen3.5:4b    3.4GB   256K    Text, Image
+qwen3:0.6b    500mb   N/A      N/A
+
+Verify the installation:
+
+```bash
+ollama run [your_model_here]
+```
+
+---
