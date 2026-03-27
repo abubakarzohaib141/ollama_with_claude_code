@@ -3,6 +3,8 @@
 > Run Claude Code Free With 'ollama'.
 > 
 ---
+## Prerequisites
+Before starting, make sure you have:
 
 | Requirement | Version | Check |
 |---|---|---|
