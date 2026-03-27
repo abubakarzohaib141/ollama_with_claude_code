@@ -1,1 +1,1 @@
-# ollama_with_claude_code
+# Ollama With Claude Code 🔥
