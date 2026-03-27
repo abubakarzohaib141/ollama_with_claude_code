@@ -44,5 +44,5 @@ npm install -g claude-code-router
 
 `ollama` an open-source tool that enables you to run Large Language Models (LLMs)—such as Llama 3, Mistral, and Gemma—locally on your own computer
 
-### Install Olama 
+### Download It From Here : 
 [ollama.com](https://ollama.com/download).
