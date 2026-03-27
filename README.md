@@ -69,3 +69,8 @@ ollama run [your_model_here]
 ```
 
 ---
+## Step 5 — Launch Claude Code With OpenRouter
+
+```python
+ollama launch claude --model your_model
+```
